@@ -2,6 +2,12 @@
 
 This project presents a comprehensive financial sales report developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.
 
+
+
+
+![Screenshot (261)](https://github.com/user-attachments/assets/02e5247e-e0d9-42f4-a60a-e77deb6bdd73)
+
+
 # Features of the dataset
 
 * Order_Id 
